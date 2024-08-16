@@ -1,4 +1,3 @@
-
 var _Name = GetURLParameter('_Name') || "JoeBloggs";
 document.getElementById("_Name").innerHTML = _Name;
 
